@@ -10,6 +10,9 @@
 - 用 1 个单位的高效逻辑，平替 5 个单位的管理消耗。
 - 生活不是为了被管理，而是为了美食、远方与文明的透明。
 
+  “We don’t count lines of code. We count the reduction of friction. If you delete 1000 lines of redundant code and make the system 5x faster, you are our hero.”
+（我们不数代码行。我们数摩擦力的减少。如果你删掉了 1000 行冗余代码并让系统快了 5 倍，你就是我们的英雄。）
+
 ### 3. UF (Humanity Illumination Factory) 愿景
 建立一个没有老板、只有逻辑的全球工厂。让每一个游牧者都能在大海边，通过这个系统，实现财务与灵魂的双重自由。
 
